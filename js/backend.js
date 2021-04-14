@@ -2,7 +2,7 @@
 
 //Загрузка данных с сервера
 (function () {
-  const URL = "https://javascript.pages.academy/kekstagram/data";
+  const URL = "https://21.javascript.pages.academy/kekstagram/data";
 
   window.load = function (onSuccess, onError) {
     let xhr = new XMLHttpRequest();
@@ -33,7 +33,7 @@
 
 //Отправка данных формы на сервер
 (function () {
-  const URL = "https://javascript.pages.academy/kekstagram";
+  const URL = "https://21.javascript.pages.academy/kekstagram";
 
   window.upload = function (data, onSuccess, onError) {
     let xhr = new XMLHttpRequest();
