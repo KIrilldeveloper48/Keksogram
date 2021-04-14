@@ -17,7 +17,7 @@
 <img src="https://i.ibb.co/SJjdn3n/2021-04-14-18-02-14-200.gif" width="80%">
 </p>
 
-<h2 align="center"><a  href="https://kirilldeveloper48.github.io/Keksogram/index.html">Демо</a></h2>
+<h2 align="center"><a  href="https://kirilldeveloper48.github.io/Keksogram/">Демо</a></h2>
 
 # Как пользоваться
 
